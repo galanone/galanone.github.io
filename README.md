@@ -1,1 +1,1 @@
-# galanone.github.io
+# 时代的终结与开始！
