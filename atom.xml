@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://galanone.github.io</id>
+    <title>Land of Fools</title>
+    <updated>2023-09-21T07:21:36.854Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://galanone.github.io"/>
+    <link rel="self" href="https://galanone.github.io/atom.xml"/>
+    <subtitle>时代的终结与开始</subtitle>
+    <logo>https://galanone.github.io/images/avatar.png</logo>
+    <icon>https://galanone.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, Land of Fools</rights>
+    <entry>
+        <title type="html"><![CDATA[语言，这广袤的夜]]></title>
+        <id>https://galanone.github.io/yu-yan-zhe-guang-mao-de-ye/</id>
+        <link href="https://galanone.github.io/yu-yan-zhe-guang-mao-de-ye/">
+        </link>
+        <updated>2023-09-21T07:15:18.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为陶峻逸同志庆生告204全体成员书]]></title>
+        <id>https://galanone.github.io/wei-tao-jun-yi-tong-zhi-qing-sheng-gao-204-quan-ti-cheng-yuan-shu/</id>
+        <link href="https://galanone.github.io/wei-tao-jun-yi-tong-zhi-qing-sheng-gao-204-quan-ti-cheng-yuan-shu/">
+        </link>
+        <updated>2022-03-22T16:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我们都来自牛马有限公司 每天上班下班打卡要准时]]></title>
+        <id>https://galanone.github.io/wo-men-du-lai-zi-niu-ma-you-xian-gong-si-mei-tian-shang-ban-xia-ban-da-qia-yao-zhun-shi/</id>
+        <link href="https://galanone.github.io/wo-men-du-lai-zi-niu-ma-you-xian-gong-si-mei-tian-shang-ban-xia-ban-da-qia-yao-zhun-shi/">
+        </link>
+        <updated>2022-01-01T11:19:55.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[发扬牛马精神，争做纯纯牛马]]></title>
+        <id>https://galanone.github.io/fa-yang-niu-ma-jing-shen-zheng-zuo-chun-chun-niu-ma/</id>
+        <link href="https://galanone.github.io/fa-yang-niu-ma-jing-shen-zheng-zuo-chun-chun-niu-ma/">
+        </link>
+        <updated>2021-12-30T09:10:08.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我用什么才能留住你]]></title>
+        <id>https://galanone.github.io/wo-yong-shi-me-cai-neng-liu-zhu-ni/</id>
+        <link href="https://galanone.github.io/wo-yong-shi-me-cai-neng-liu-zhu-ni/">
+        </link>
+        <updated>2021-11-30T10:20:18.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OK, OK，兄弟们，全体目光向我看齐]]></title>
+        <id>https://galanone.github.io/ok-ok-xiong-di-men-quan-ti-mu-guang-xiang-wo-kan-qi/</id>
+        <link href="https://galanone.github.io/ok-ok-xiong-di-men-quan-ti-mu-guang-xiang-wo-kan-qi/">
+        </link>
+        <updated>2021-10-25T02:42:54.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[热烈庆祝新中国成立72周年]]></title>
+        <id>https://galanone.github.io/re-lie-qing-zhu-xin-zhong-guo-cheng-li-72-zhou-nian/</id>
+        <link href="https://galanone.github.io/re-lie-qing-zhu-xin-zhong-guo-cheng-li-72-zhou-nian/">
+        </link>
+        <updated>2021-10-06T11:05:09.000Z</updated>
+    </entry>
+</feed>
